@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KTCwWjKL5Zz3Y19MWM0jyYT5gvHnMe0iG26ONcqXP/M=",
+  "Source": "tech-payment-api-dio",
+  "BasePath": "_content/tech-payment-api-dio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
